@@ -1,0 +1,36 @@
+_repo: The-Lovely-Lady_20359
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Grant, Gordon
+    alias: Grant, Gordon H.
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '8049'
+    url: http://www.gutenberg.org/2009/agents/8049
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austin, Mary Hunter
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '201'
+    url: http://www.gutenberg.org/2009/agents/201
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
+description: ''
+gutenberg_issued: '2007-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20359'
+  lccn: '13023198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: The Lovely Lady
+url: http://www.gutenberg.org/ebooks/20359
